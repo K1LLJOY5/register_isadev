@@ -1,0 +1,12 @@
+{
+  "description": "damnocode portofolio website",
+  "repo": "https://github.com/K1LLJOY5/register_isadev",
+  "owner": {
+    "username": "K1LLJOY5",
+    "email": "triananda45@gmail.com"
+  }
+  "record": {
+    "CNAME": "damnocode.vercel.app"
+  },
+  "proxied": true
+}
